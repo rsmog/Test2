@@ -1,0 +1,9 @@
+http://nuke.vbcorner.net/Default.aspx?TabId=93&language=en-US
+https://www.youtube.com/watch?v=BPGSXTgvFNU
+
+http://stackoverflow.com/questions/20492463/how-to-install-vb6-sp6-on-windows-8-1-x64
+https://github.com/martinmoene/martin-moene.blogspot.com/tree/master/How%20to%20install%20Visual%20Studio%206%20on%20Windows%208.1
+https://social.technet.microsoft.com/Forums/en-US/ec6e63d2-f904-4b01-8fbf-d02af0785cf2/compatibility-issue-when-installing-vs6-on-windows-server-2008-r2?forum=winservergen
+
+http://www.fortypoundhead.com/showcontent.asp?artid=20502
+http://www.codeproject.com/Tips/408806/How-to-install-Visual-Studio-on-Windows-profes
